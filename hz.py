@@ -6,3 +6,7 @@ import random
 print random.randrange(1,11)
 print random.randrange(1,101)
 
+def hz(x):
+    return x*x
+
+
