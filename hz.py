@@ -10,3 +10,6 @@ def hz(x):
     return x*x
 
 # comment
+
+class Zen():
+    pass
