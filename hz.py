@@ -11,5 +11,5 @@ def hz(x):
 
 # comment
 
-class Zen():
+class Zen:
     pass
