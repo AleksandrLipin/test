@@ -13,3 +13,6 @@ def hz(x):
 
 class Zen:
     pass
+
+class Empty:
+    pass
